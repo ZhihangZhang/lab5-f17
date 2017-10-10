@@ -32,5 +32,7 @@ public class ZeroSumSubsequenceTest {
 	public void test5() {
 		assertEquals(0, ZeroSumSubsequence.getMaximumLength(Arrays.asList(1, 1, 2)));
 	}
+
+
 	
 }
